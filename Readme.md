@@ -157,19 +157,3 @@ We follow a strict naming convention to prevent resource collisions:
 *   [x] Adhering to **Best Practices** for Enterprise IaC.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## 🤝 Connect & Support
-
-Built with ❤️ by **[Your Name]**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YourUsername)
-
----
-*If you found this helpful, please star ⭐ the repository!*
